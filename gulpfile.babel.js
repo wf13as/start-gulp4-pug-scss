@@ -30,7 +30,7 @@ const paths = {
 		dest: 'build/assets/fonts/'
 	},
 	images: {
-		src: 'src/assets/i/**/*.{jpg,jpeg,png,svg,ico}',
+		src: 'src/assets/images/**/*.{jpg,jpeg,png,svg,ico}',
 		dest: 'build/assets/img/'
 	},
 	scripts: {
