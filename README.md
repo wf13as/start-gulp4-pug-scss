@@ -1,4 +1,4 @@
-# start-gulp-pug-scss
+# start-gulp4-pug-scss
 
 npm i
 
