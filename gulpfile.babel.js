@@ -108,7 +108,7 @@ function images () {
 
 function views () {
 	return gulp.src(paths.views.src)
-	.pipe(pug())
+	.pipe(pug({pretty:true}))
 	.pipe(gulp.dest(paths.views.dest))
 	.on('end', browserSync.reload)
 }
