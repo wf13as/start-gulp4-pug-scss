@@ -1,0 +1,42 @@
+
+
+// Project variables
+
+
+@import "vars";
+
+
+
+
+
+
+/*******************
+Table of contents
+
+===== Default styles
+
+*******************/
+
+
+/* == Default styles
+====================*/
+
+body {
+    font-family: "Arial", sans-serif;
+    margin: 0;
+    text-align: center;
+    h1 {
+        font-size: 40px;
+        text-transform: uppercase;
+    }
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+// Helpers
+
+@import "helpers";
